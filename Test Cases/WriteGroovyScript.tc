@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WriteGroovyScript</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84c6e112-c781-4fe5-8444-096204f5694a</testCaseGuid>
+   <variable>
+      <defaultValue>'empty'</defaultValue>
+      <description></description>
+      <id>ea4633b1-bd4d-43d3-a8ff-3d29651f13b0</id>
+      <masked>false</masked>
+      <name>testcaseAlertText</name>
+   </variable>
+</TestCaseEntity>

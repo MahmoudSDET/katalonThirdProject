@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'file:///D:/Download-Sample-Site/learnks1-home.html'</initValue>
+      <name>globalURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
